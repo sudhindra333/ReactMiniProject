@@ -1,0 +1,14 @@
+.App {
+  background-image: linear-gradient(
+    to right top,
+    #9185c7,
+    #d2939f,
+    #dda1ac,
+    #afb0e8,
+    #f3bdc7
+  );
+}
+
+.row {
+  margin: 2rem;
+}
